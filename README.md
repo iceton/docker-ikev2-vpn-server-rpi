@@ -1,4 +1,4 @@
-# IKEv2 VPN Server on Docker
+# IKEv2 VPN Server on Docker on Raspberry Pi
 
 IKEv2 VPN server targeting ARMv6 for compatibility with Raspberry Pi 1-3 & Zero, with .mobileconfig generation for easy use with iOS & MacOS
 
