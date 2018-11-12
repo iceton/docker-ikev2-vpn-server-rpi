@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM resin/rpi-raspbian:stretch
 
 RUN apt-get update \
     && DEBIAN_FRONTEND=noninteractive apt-get -y upgrade \
