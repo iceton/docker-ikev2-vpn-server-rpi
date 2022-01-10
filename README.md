@@ -1,6 +1,8 @@
 # IKEv2 VPN Server on Docker on Raspberry Pi
 
-IKEv2 VPN server Docker image targeting ARMv6 for compatibility with Raspberry Pi (including Zero), with .mobileconfig generation for easy use with iOS & MacOS
+IKEv2 VPN server Docker image targeting ARMv6 for compatibility with early Raspberry Pi (1, Zero), with .mobileconfig generation for easy use with iOS & macOS.
+
+Later Raspberry Pis with later (ARMv7+) instruction sets can probably use the [standard image](https://github.com/iceton/docker-ikev2-vpn-server).
 
 Forked from https://github.com/iceton/docker-ikev2-vpn-server
 
